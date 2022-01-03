@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kelvin Tsang! @kelvintfy
-- 👀 I’m interested in software development and DevOps!
+- 👀 DevOps, Microservices, Kubernetes, and Blockchain are my area of interest
 
 <!---
 kelvintfy/kelvintfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
